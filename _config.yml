@@ -1,0 +1,8 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Music Like You Mean It
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+exclude: ["README.md"]

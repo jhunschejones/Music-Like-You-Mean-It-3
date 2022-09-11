@@ -5,14 +5,18 @@ nav_order: 1
 permalink: /about
 ---
 
-### What's this guy all about?
+## What's this guy all about?
 Hey there!
 
 My name is Josh Jones, and I am the creator of musiclikeyoumeanit.com. I am a huge rock and heavy music fan. I have worked in these genres as a musician, producer, and engineer for more than a decade and I can easily say I have had some of the best experiences of my life creating music.
 
 I created musiclikeyoumeanit.com because I am excited to share what I have learned with other music professionals like you to help you on your journey.
 
-### Is Music Like You Mean It for me?
+![My friend Dani and I](/images/dani_and_josh.jpg)
+
+_(The photo is of my best friend Dani and I on vacation in the beautiful Pacific Northwest of the United States. They have been a huge help in my music career, and when we aren't working on a record together we thoroughly enjoy spending time outdoors, walking and hiking in nature.)_
+
+## Is Music Like You Mean It for me?
 Great question! This site and my content is **not** for you if:
 * You aren't passionate about creating high quality music
 * You aren't willing to think outside the box to find ways to improve at your craft
@@ -31,7 +35,7 @@ I firmly believe that once you understand the process of creating great music, i
 
 The good news is that anyone can learn how to make the decisions required to create high quality music. It is helpful to be a master at your instrument, DAW, or songwriting flow, but I want to let you in on a secret. There are great records being made right now by people who aren't as skilled as you are. The only difference between you and them is that they are **making the important decisions intentionally**, and the result is they get to release music that moves our favorite genres forward.
 
-### Where do I start?
+## Where do I start?
 If you are as excited as I am for the future of rock and heavy music, let me walk alongside you in your journey and share what I have learned to help you take the next step in the right direction.
 
 The best place to get started is to go sign up and watch my free workshop. It is jam-packed with great content for everyone from musicians to songwriters to engineers. Try to identify at least one takeaway you can apply to your music, and then actually go and do the work. I know you have what it takes to leave your mark on the industry and I am so excited to hear what you create!

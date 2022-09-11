@@ -26,7 +26,7 @@ On the other hand, if you have ever wished your music could sound as polished an
 
 I also welcome music professionals who are already established in their career, but still looking to **push their music to the next level**. There are so many more voices out there in the rock and heavy music genres that deserve to be heard, and it is my goal to teach you the tools, mindsets, and workflows to make sure you get there.
 
-### What makes this site different?
+## What makes this site different?
 There is a ton of content online about how to get started in the music industry, and there are plenty of people happy to show you the latest plugins and mixing tricks.
 
 Music Like You Mean It is different. This site aims to cut through all the noise and help you rise above the tricks and hacks to see **the important decisions behind all the great records you love**.

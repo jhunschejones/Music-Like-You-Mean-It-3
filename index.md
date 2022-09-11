@@ -9,4 +9,4 @@ permalink: /
 
 Learn twelve key decisions you can make today to take your writing, recording, mixing, and live performances to the next level.
 
-<a href="/workshop">Watch the free workshop</a>
+[Watch the free workshop](workshop){: .btn .btn-blue }

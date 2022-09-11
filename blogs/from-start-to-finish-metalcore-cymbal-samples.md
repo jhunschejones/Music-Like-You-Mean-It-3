@@ -3,6 +3,7 @@ layout: default
 title: Cymbal Samples
 nav_order: 1
 permalink: /blogs/from-start-to-finish-metalcore-cymbal-samples
+parent: Blog
 ---
 
 # Boost the energy in your mix and craft larger-than-life overheads with cymbal samples

@@ -6,3 +6,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 exclude: ["README.md"]
+
+callouts:
+  important:
+    color: purple

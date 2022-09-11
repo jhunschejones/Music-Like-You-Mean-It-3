@@ -7,7 +7,7 @@ permalink: /blogs/from-start-to-finish-metalcore-cymbal-samples
 
 # Boost the energy in your mix and craft larger-than-life overheads with cymbal samples
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vg7GqCG4a1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vg7GqCG4a1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Have you ever worked on a killer mix, only to be let down during a **key transition** when the performances just didn't **hit as hard** as they needed to? In more complex arrangements, it can be near impossible for even the best drummers to play **powerful, clear accents** after a complicated fill.
 

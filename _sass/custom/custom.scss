@@ -2,4 +2,12 @@
   .site-footer {
     display: none;
   }
+  .site-header {
+    @media only screen and (min-width: 800px) {
+      .site-title {
+        // Display site title in one line when it's on the side bar
+        font-size: 17px !important;
+      }
+    }
+  }
 }

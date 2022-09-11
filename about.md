@@ -13,8 +13,7 @@ My name is Josh Jones, and I am the creator of musiclikeyoumeanit.com. I am a hu
 I created musiclikeyoumeanit.com because I am excited to share what I have learned with other music professionals like you to help you on your journey.
 
 ![My friend Dani and I](/images/dani_and_josh.jpg)
-
-<span class="text-grey-lt-200">
+<span class="text-grey-lt-300">
   _(The photo is of my best friend Dani and I on vacation in the beautiful Pacific Northwest of the United States. They have been a huge help in my music career, and when we aren't working on a record together we thoroughly enjoy spending time outdoors, walking and hiking in nature.)_
 </span>
 

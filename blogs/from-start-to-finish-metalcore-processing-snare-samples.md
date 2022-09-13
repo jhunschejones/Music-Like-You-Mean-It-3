@@ -40,4 +40,4 @@ In this video I'll show you the processing I applied to help the snare samples s
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

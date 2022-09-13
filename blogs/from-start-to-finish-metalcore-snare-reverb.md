@@ -37,4 +37,4 @@ In this video, I show you the **two key reverb sounds** I use for the snare, inc
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

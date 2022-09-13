@@ -40,4 +40,4 @@ In this video, I show you a different way to keep your natural overhead sound wh
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

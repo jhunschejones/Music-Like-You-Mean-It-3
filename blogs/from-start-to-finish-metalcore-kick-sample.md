@@ -42,4 +42,4 @@ I'm happy to show you! Let's start with the kick drum. In this video, I talk abo
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

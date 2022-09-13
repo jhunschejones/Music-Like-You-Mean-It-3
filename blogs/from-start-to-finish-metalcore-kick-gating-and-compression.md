@@ -37,4 +37,4 @@ In this video, I discuss how I compressed and gated the live kick-in track, incl
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

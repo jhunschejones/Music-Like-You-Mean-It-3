@@ -27,9 +27,9 @@ Snare drum
   <iframe src="https://www.youtube-nocookie.com/embed/hDDBYN8Tq9c?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Are you looking to polish up some snare samples you created during your session, or maybe create some samples on your own for fun? This is a great video to get you started.
-
 ## What's this all about?
+
+Are you looking to polish up some snare samples you created during your session, or maybe create some samples on your own for fun? This is a great video to get you started.
 
 For this mix I didn't have a live snare top or bottom track to work with. Instead, I had to craft my **main snare tone out of multi-samples** taken during the session.
 

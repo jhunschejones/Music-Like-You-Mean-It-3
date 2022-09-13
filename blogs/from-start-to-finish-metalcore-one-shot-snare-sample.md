@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One-shot snare samples
+title: Snare One-shot Samples
 nav_order: 8
 permalink: /blogs/from-start-to-finish-metalcore-one-shot-snare-sample
 parent: Blog
@@ -23,6 +23,8 @@ Snare drum
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/n06hEsLwwko?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## What's this all about?
 
 Have you ever struggled with getting your live snare to sound as **consistent and punchy** as the records you like? One powerful tool to help with this quest is the mighty one-shot snare sample.
 

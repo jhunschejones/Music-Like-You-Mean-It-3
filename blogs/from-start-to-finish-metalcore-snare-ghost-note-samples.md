@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Snare ghost note samples
+title: Snare Ghost Note Samples
 nav_order: 7
 permalink: /blogs/from-start-to-finish-metalcore-snare-ghost-note-samples
 parent: Blog

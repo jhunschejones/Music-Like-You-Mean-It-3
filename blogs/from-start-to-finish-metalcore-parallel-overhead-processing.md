@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parallel overheads
+title: Parallel Overheads
 nav_order: 3
 permalink: /blogs/from-start-to-finish-metalcore-parallel-overhead-processing
 parent: Blog

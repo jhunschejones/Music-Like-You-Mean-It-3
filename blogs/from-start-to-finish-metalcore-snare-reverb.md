@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Snare reverb
+title: Snare Reverb
 nav_order: 6
 permalink: /blogs/from-start-to-finish-metalcore-snare-reverb
 parent: Blog

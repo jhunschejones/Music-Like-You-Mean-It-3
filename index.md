@@ -7,7 +7,7 @@ permalink: /
 
 # I Want To Help You Create the Best Rock And Heavy Music Of Your Career
 
-Thanks for visiting musiclikeyoumeanit.com! The world of online music production learning resources is a busy place, so I don't want to waste a single moment of your time.
+Thanks for visiting musiclikeyoumeanit.com! My name is Josh Jones and I am a musician, producer, engineer, online educator, and heavy music fan. The world of online learning resources for musicians and engineers is a busy place, so I don't want to waste a single moment of your time.
 
 {: .important-title }
 > Where do I start?

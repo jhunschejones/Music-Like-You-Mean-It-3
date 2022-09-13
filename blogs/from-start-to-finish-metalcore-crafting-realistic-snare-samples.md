@@ -36,3 +36,10 @@ Crafting good drum tones with samples is a key skill to master in modern heavy m
 While it is not my first choice when live recordings are an option, I have used this **time-tested approach** on several occasions to help improve an otherwise robotic feeling drum mix. Watch the video for more details on how I put together my main snare sound.
 
 I have made sure to include **easy to follow steps and mindsets** to prepare you for the next time you need to breathe life into sampled drums!
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

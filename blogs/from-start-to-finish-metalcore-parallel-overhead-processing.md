@@ -28,6 +28,8 @@ Overheads
   <iframe src="https://www.youtube-nocookie.com/embed/4WnLZY1iGgU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## What's this all about?
+
 Have you ever worked with a drum recording that sounded good on its own, but when you put it in the mix, the cymbals just did not **cut through the other instruments**?
 
 Boosting the top end on your overheads will only get you so far, and cutting more low end can leave you with _harsh_, _unpleasant_ sounding cymbals.

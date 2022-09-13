@@ -20,6 +20,7 @@ Mixing
 Overheads
 {: .label .label-blue }
 
+## What's this all about?
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/Go_-2mZCEXA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

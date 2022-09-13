@@ -11,5 +11,5 @@ permalink: /
 > Where do I start?
 >
 > Learn twelve key decisions you can make today to take your writing, recording, mixing, and live performances to the next level.
-
-[Watch the free workshop](workshop){: .btn .btn-blue }
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

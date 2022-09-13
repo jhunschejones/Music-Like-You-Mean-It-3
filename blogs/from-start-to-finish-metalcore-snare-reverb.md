@@ -31,3 +31,10 @@ Have you ever found yourself working in circles trying to **get your snare to hi
 There have been several key moments during my mixing career where I noticed the quality of my mixes had **reached a new level**. One of these was when I discovered how much the space you create for your snare can affect how impactful it feels in the mix.
 
 In this video, I show you the **two key reverb sounds** I use for the snare, including the exact settings I dialed in and the role each plays in the snare sound. This is crucial part of the drum mix to get right, and I want to help you have the same breakthroughs here that I did!
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

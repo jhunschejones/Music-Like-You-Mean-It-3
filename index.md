@@ -16,4 +16,4 @@ Thanks for visiting musiclikeyoumeanit.com! My name is Josh Jones and I am a mus
 >
 > [Watch the free workshop](workshop){: .btn .btn-blue }
 
-I have also uploaded quite a few mix walk-throughs on the Music Like You Mean It [blog](blog). I cover specific elements of a mix that I refreshed just for you, so make sure to take a look if any of the topics sound interesting!
+I have also uploaded quite a few mix walk-throughs on the Music Like You Mean It [blog](blogs). On the blog I demonstrate specific elements of a mix that I refreshed just for you, so make sure to [take a look](blogs) if any of the topics sound interesting!

@@ -37,3 +37,10 @@ Welcome to the "From Start To Finish [Metalcore]" series where I'm digging into 
 In the big studio days, you could do this by hitting an analog preamp or tape machine during the recording phase. When those tools aren't available _(as is often the case for me in mobile recording sessions)_ I like to turn to saturation plugins to help me shape my tracks in a few areas where these tools they really shine.
 
 In this video, I talk about how I used the Massey TapeHead saturation plugin to add some oomph to the live kick-in track in this mix. As a fun bonus, I also show how I would go about **achieving similar results using a different plugin** if I didn't have this one.
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

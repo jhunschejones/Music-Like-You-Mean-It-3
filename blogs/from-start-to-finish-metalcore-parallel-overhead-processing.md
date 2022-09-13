@@ -35,3 +35,10 @@ Have you ever worked with a drum recording that sounded good on its own, but whe
 Boosting the top end on your overheads will only get you so far, and cutting more low end can leave you with _harsh_, _unpleasant_ sounding cymbals.
 
 In this video, I show you a different way to keep your natural overhead sound while **boosting the presence and clarity** of the cymbals in your mix. It’s the best of both worlds and a great tool to have at your disposal when you need it.
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

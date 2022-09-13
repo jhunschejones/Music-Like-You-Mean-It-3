@@ -34,3 +34,10 @@ Are you looking to polish up some snare samples you created during your session,
 For this mix I didn't have a live snare top or bottom track to work with. Instead, I had to craft my **main snare tone out of multi-samples** taken during the session.
 
 In this video I'll show you the processing I applied to help the snare samples sit better in the mix and **sound as natural as possible** so that you can use these approaches to improve your own snare samples. See you in there!
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

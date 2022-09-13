@@ -34,3 +34,10 @@ Have you ever worked with a drummer who had a **great snare grove** that just wa
 In recent years, I feel like there has been a renewed focus on drum dynamics in some corners of the heavy music world. With improvements in recording and mixing technology, it is now more possible than ever to build a **punchy, natural mix** that shows off all the nuances of a great drum arrangement.
 
 In this video, I show you how I used **ghost note snare samples** in the mix to reinforce the dynamics of the drum performance in a way that sounds **larger than life**. You'll learn my process behind selecting samples, and the choices that go into shaping dynamic drum mixes in modern heavy music.
+
+{: .important-title }
+> Looking for more?
+>
+> Learn twelve of the most important decisions behind every great music creation success.
+>
+> [Watch the free workshop](workshop){: .btn .btn-blue }

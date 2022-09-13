@@ -37,4 +37,4 @@ I explain the EQ I used as well as my go-to room reverb settings and the reasons
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .btn .btn-blue }

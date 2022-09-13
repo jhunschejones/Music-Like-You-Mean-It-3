@@ -26,7 +26,6 @@ Cymbals
 Samples
 {: .label .label-blue }
 
-
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/vg7GqCG4a1s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -34,18 +34,18 @@
 }
 
 .home-page {
-  background-image: "/images/workshop_background_original.jpg";
+  background-image: url("/images/workshop_background_original.jpg");
   @media screen and (max-width: 2160px) {
-    background-image: "/images/workshop_background_2160w.jpg";
+    background-image: url("/images/workshop_background_2160w.jpg");
   }
   @media screen and (max-width: 1080px) {
-    background-image: "/images/workshop_background_1080w.jpg";
+    background-image: url("/images/workshop_background_1080w.jpg");
   }
   @media screen and (max-width: 720px) {
-    background-image: "/images/workshop_background_720w.jpg";
+    background-image: url("/images/workshop_background_720w.jpg");
   }
   @media screen and (max-width: 480px) {
-    background-image: "/images/workshop_background_480w.jpg";
+    background-image: url("/images/workshop_background_480w.jpg");
   }
   min-height: calc(100vh - 136px); // height of both navbars
   background-repeat: no-repeat;
@@ -58,7 +58,7 @@
     min-height: calc(100vh - 136px); // height of both navbars
     background-color: RGBA(22, 30, 42, 0.86);
   }
-  .home-page-card-card {
+  .home-page-card {
     padding: 12px;
     margin: 60px 0px;
     width: 100%;
@@ -70,7 +70,7 @@
         margin-bottom: 18px;
       }
     }
-    .inner-home-page-card-card {
+    .inner-home-page-card {
       margin-top: 30px;
       border-radius: 5px;
       padding: 20px;

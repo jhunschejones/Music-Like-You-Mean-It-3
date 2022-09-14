@@ -14,7 +14,7 @@ permalink: /
       <p class="text-grey-lt-000 fs-5 fw-300 mt-4">
         Learn twelve key decisions you can make today to take your writing, recording, mixing, and live performances to the next level.
       </p>
-      <div class="inner-home-page-card">
+      <div class="inner-home-page-card text-center">
         <h2 class="title">
           Get immediate access to the free video workshop today!
         </h2>

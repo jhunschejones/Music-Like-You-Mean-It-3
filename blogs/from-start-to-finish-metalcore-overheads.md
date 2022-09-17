@@ -37,4 +37,4 @@ In this video, I take you through the processing on my main drum overhead tracks
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

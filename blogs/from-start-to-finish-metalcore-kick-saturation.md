@@ -42,4 +42,4 @@ In this video, I talk about how I used the Massey TapeHead saturation plugin to 
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

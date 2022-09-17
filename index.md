@@ -18,7 +18,7 @@ permalink: /
         <h2 class="title">
           Get immediate access to the free video workshop today!
         </h2>
-        <a href="/workshop" class="btn btn-blue workshop-button">
+        <a href="/workshop" class="blue-button workshop-button">
           Watch the free workshop
         </a>
       </div>

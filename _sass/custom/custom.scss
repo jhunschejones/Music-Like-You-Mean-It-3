@@ -1,3 +1,4 @@
+// Container to make youtube videos responsively sized
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -11,11 +12,53 @@
   }
 }
 
+// Custom styling for tags
 .label, .label-blue {
   margin-right: 4px;
   margin-left: 0;
 }
 
+// Custom button
+.basic-button {
+  -webkit-appearance: none;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 0.6em;
+  border-style: solid;
+  background-color: #E5E7EB;
+  border-color: #E5E7EB;
+  color: #0F172A;
+  font-size: 1em;
+  width: fit-content;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  &:hover {
+    cursor: pointer;
+  }
+  &:disabled {
+    cursor: not-allowed;
+    background-color: #F3F4F6;
+    border-color: #F3F4F6;
+    color: #94a3b8;
+  }
+}
+
+.blue-button {
+  @extend .basic-button;
+  background-color: #2869e6;
+  border-color: #2869e6;
+  color: #fff;
+  &:disabled {
+    background-color: #60A5FA;
+    border-color: #60A5FA;
+    color: #fff;
+  }
+}
+
+// Custom side bar styles
 .side-bar {
   .site-nav {
     padding-top: 1rem;
@@ -33,6 +76,7 @@
   }
 }
 
+// Custom home page styles
 .home-page {
   background-image: url("/images/workshop_background_original.jpg");
   @media screen and (max-width: 2160px) {

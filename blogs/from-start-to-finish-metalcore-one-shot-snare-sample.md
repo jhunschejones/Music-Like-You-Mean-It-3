@@ -35,4 +35,4 @@ In this video I'll show you how I reinforced the multi-samples in my mix with a 
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

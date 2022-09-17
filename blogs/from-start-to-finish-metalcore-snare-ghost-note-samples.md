@@ -40,4 +40,4 @@ In this video, I show you how I used **ghost note snare samples** in the mix to 
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

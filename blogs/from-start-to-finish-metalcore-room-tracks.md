@@ -35,4 +35,4 @@ In this video, I show you how I was able to use a little creativity to take a pr
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

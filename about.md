@@ -41,4 +41,4 @@ If you are as excited as I am for the future of rock and heavy music, let me wal
 
 The best place to get started is to go sign up and watch my free workshop. It is jam-packed with great content for everyone from musicians to songwriters to engineers. Try to identify at least one takeaway you can apply to your music, and then actually go and do the work. I know you have what it takes to leave your mark on the industry and I am so excited to hear what you create!
 
-[Watch the free workshop](workshop){: .btn .btn-blue }
+[Watch the free workshop](workshop){: .blue-button }

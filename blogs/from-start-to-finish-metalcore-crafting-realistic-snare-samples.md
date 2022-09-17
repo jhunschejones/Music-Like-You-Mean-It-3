@@ -42,4 +42,4 @@ I have made sure to include **easy to follow steps and mindsets** to prepare you
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

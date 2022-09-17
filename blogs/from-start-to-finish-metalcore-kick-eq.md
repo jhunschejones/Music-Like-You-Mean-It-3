@@ -37,4 +37,4 @@ In this video, I discuss how I EQ'd the live kick-in track in this mix, includin
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

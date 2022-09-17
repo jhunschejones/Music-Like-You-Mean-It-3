@@ -43,4 +43,4 @@ After this video, you'll have a great new tool at your disposal for creating **l
 >
 > Learn twelve of the most important decisions behind every great music creation success.
 >
-> [Watch the free workshop](/workshop){: .btn .btn-blue }
+> [Watch the free workshop](/workshop){: .blue-button }

@@ -13,9 +13,13 @@
 }
 
 // Custom styling for tags
-.label, .label-blue {
-  margin: 0 2px 6px 0;
-  padding: 2px 8px;
+.tags-container {
+  padding: 4px 0 6px 0;
+  .label, .label-blue {
+    margin: 0 2px 6px 0;
+    padding: 2px 8px;
+    font-size: 10px !important;
+  }
 }
 
 // Custom button

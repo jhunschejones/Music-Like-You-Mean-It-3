@@ -8,20 +8,22 @@ parent: Blog
 
 # How to craft realistic snare samples to breathe life into your snare tone
 
-Drum samples
-{: .label .label-blue }
+<div class="tags">
+  Drum samples
+  {: .label .label-blue }
 
-Live drum tracks
-{: .label .label-blue }
+  Live drum tracks
+  {: .label .label-blue }
 
-Metalcore
-{: .label .label-blue }
+  Metalcore
+  {: .label .label-blue }
 
-Mixing
-{: .label .label-blue }
+  Mixing
+  {: .label .label-blue }
 
-Snare drum
-{: .label .label-blue }
+  Snare drum
+  {: .label .label-blue }
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/Mkw4bey06_k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

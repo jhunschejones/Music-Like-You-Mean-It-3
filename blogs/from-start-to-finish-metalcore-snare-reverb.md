@@ -27,7 +27,7 @@ There have been several key moments during my mixing career where I noticed the 
 
 In this video, I show you the **two key reverb sounds** I use for the snare, including the exact settings I dialed in and the role each plays in the snare sound. This is crucial part of the drum mix to get right, and I want to help you have the same breakthroughs here that I did!
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

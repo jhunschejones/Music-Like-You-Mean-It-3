@@ -30,7 +30,7 @@ While it is not my first choice when live recordings are an option, I have used 
 
 I have made sure to include **easy to follow steps and mindsets** to prepare you for the next time you need to breathe life into sampled drums!
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

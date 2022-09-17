@@ -30,7 +30,7 @@ When used correctly, samples can **help your drums cut through the mix** with ad
 
 I'm happy to show you! Let's start with the kick drum. In this video, I talk about how I used a sample to **reinforce the live kick** in this mix in order to deliver more **consistency** and some **in-your-face kick attack**. In the video I go through all the processing that I used and I even give away my _secret sauce_: the sample I use in almost every mix!
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

@@ -27,7 +27,7 @@ Different mixes present different challenges when it comes to toms. In this vide
 
 I explain the EQ I used as well as my go-to room reverb settings and the reasons I chose these specific tools. Finally, I touch on how I go about setting the level of my toms for a **huge drum sound** that doesn’t take over the entire mix.
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

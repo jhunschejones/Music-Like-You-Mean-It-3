@@ -1,14 +1,20 @@
-// Container to make youtube videos responsively sized
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  iframe, object, embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+// ==== JUST THE DOCS OVERRIDES ===
+
+// Custom side bar styles
+.side-bar {
+  .site-nav {
+    padding-top: 1rem;
+  }
+  .site-header {
+    @media only screen and (min-width: 800px) {
+      .site-title {
+        // Display site title in one line when it's on the side bar
+        font-size: 17px !important;
+      }
+    }
+  }
+  .site-footer {
+    display: none;
   }
 }
 
@@ -22,17 +28,35 @@
   }
 }
 
-// Override default which puts a big amount of padding on the bottom on smaller screens
+// Override defaults which put a huge amount of padding on the bottom on smaller screens
 body {
   padding-bottom: 0;
 }
 
-// Prevent p tags from getting small on mobile
-.main-content p {
-  font-size: 16px;
+// Prevent font sizes from getting small on mobile
+.main-content {
+  p {
+    font-size: 16px !important;
+  }
+  h2 {
+    font-size: 24px !important;
+    @media only screen and (max-width: 500px) {
+      font-size: 22px !important;
+    }
+  }
+  h1 {
+    font-size: 36px !important;
+    @media only screen and (max-width: 500px) {
+      font-size: 32px !important;
+    }
+  }
+}
+.breadcrumb-nav {
+  font-size: 12px !important;
 }
 
-// Custom button
+// === MY CUSTOM STYLES ===
+
 .basic-button {
   -webkit-appearance: none;
   font-weight: 400;
@@ -76,21 +100,17 @@ body {
   }
 }
 
-// Custom side bar styles
-.side-bar {
-  .site-nav {
-    padding-top: 1rem;
-  }
-  .site-header {
-    @media only screen and (min-width: 800px) {
-      .site-title {
-        // Display site title in one line when it's on the side bar
-        font-size: 17px !important;
-      }
-    }
-  }
-  .site-footer {
-    display: none;
+// Container to make youtube videos re-size responsively
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 

@@ -27,7 +27,7 @@ It can be tricky to clean up drum overheads for a present, modern drum sound, bu
 
 In this video, I take you through the processing on my main drum overhead tracks in this mix, including the exact EQ, compression, limiting, and saturation settings I used. More importantly, I talk about how I made these choices so that the final result sounds **modern and natural** without any painful or harsh high frequencies.
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

@@ -30,7 +30,7 @@ In the big studio days, you could do this by hitting an analog preamp or tape ma
 
 In this video, I talk about how I used the Massey TapeHead saturation plugin to add some oomph to the live kick-in track in this mix. As a fun bonus, I also show how I would go about **achieving similar results using a different plugin** if I didn't have this one.
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

@@ -27,7 +27,7 @@ Have you ever struggled with getting a live kick-in track to cut through a dense
 
 In this video, I discuss how I EQ'd the live kick-in track in this mix, including how I used the Waves SSL Channel and FabFilter's Pro Q3.
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

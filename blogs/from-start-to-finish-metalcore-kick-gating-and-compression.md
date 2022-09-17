@@ -27,7 +27,7 @@ Have you ever struggled with getting a live kick-in track to sit in a dense mix?
 
 In this video, I discuss how I compressed and gated the live kick-in track, including how I used Sound Radix's Drum Leveler and FabFilter's Pro MB to help the kick hit hard in the mix.
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

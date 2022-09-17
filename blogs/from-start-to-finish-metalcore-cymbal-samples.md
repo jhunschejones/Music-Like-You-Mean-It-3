@@ -29,7 +29,7 @@ In this video, I show you how I use cymbal samples in my mix to **boost the ener
 
 After this video, you'll have a great new tool at your disposal for creating **larger-than-life overheads** for your next heavy mix!
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

@@ -25,7 +25,7 @@ Have you ever had to record drums in a space that was **too small**, or just did
 
 In this video, I show you how I was able to use a little creativity to take a problem with my recorded tracks and turn it into an opportunity. Along the way I talk about the processing I've done on the **drum room tracks** for this mix. Don't miss out on this one!
 
-{: .important-title }
+{: .important-title .mt-5 }
 > Looking for more?
 >
 > Learn twelve of the most important decisions behind every great music creation success.

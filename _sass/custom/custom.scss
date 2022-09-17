@@ -29,7 +29,7 @@
   background-color: #E5E7EB;
   border-color: #E5E7EB;
   color: #0F172A;
-  font-size: 1em;
+  font-size: 16px !important;
   width: fit-content;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
@@ -129,6 +129,9 @@
     .title {
       margin-top: 8px;
     }
+    .subtitle {
+      font-size: 18px;
+    }
     @media screen and (max-width: 500px) {
       line-height: 1.75em;
       margin: 30px 0px 40px 0px;
@@ -151,6 +154,7 @@
       }
       .title {
         line-height: 1.2em;
+        font-size: 23px !important;
       }
       .workshop-button {
         margin-top: 16px;

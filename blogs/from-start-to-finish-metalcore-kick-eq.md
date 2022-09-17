@@ -8,17 +8,12 @@ parent: Blog
 
 # EQ your kick to sound present and hit hard without taking over the mix
 
-Kick drum
-{: .label .label-blue }
-
-Live drum tracks
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Kick drum</span>
+  <span class="label label-blue">Live drum tracks</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/SdHhFB9O_10?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

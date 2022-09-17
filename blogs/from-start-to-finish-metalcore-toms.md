@@ -8,17 +8,12 @@ parent: Blog
 
 # Creating a natural, modern tom sound from tightly edited tracks
 
-Drums
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
-
-Toms
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Drums</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+  <span class="label label-blue">Toms</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/QH8cYJvfEpU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -8,20 +8,13 @@ parent: Blog
 
 # How to use a sample to give your kick drum more consistency and attitude
 
-Kick samples
-{: .label .label-blue }
-
-Kick drum
-{: .label .label-blue }
-
-Live drum tracks
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Kick samples</span>
+  <span class="label label-blue">Kick drum</span>
+  <span class="label label-blue">Live drum tracks</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/yGdIbiSy96k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

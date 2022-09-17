@@ -8,17 +8,12 @@ parent: Blog
 
 # Create a consistent, massive snare tone with one-shot samples
 
-Drum samples
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
-
-Snare drum
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Drum samples</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+  <span class="label label-blue">Snare drum</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/n06hEsLwwko?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

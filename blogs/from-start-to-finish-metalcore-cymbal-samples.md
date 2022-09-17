@@ -8,23 +8,14 @@ parent: Blog
 
 # Boost the energy in your mix and craft larger-than-life overheads with cymbal samples
 
-Drums
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
-
-Overheads
-{: .label .label-blue }
-
-Cymbals
-{: .label .label-blue }
-
-Samples
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Drum samples</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+  <span class="label label-blue">Overheads</span>
+  <span class="label label-blue">Cymbals</span>
+  <span class="label label-blue">Samples</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/vg7GqCG4a1s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

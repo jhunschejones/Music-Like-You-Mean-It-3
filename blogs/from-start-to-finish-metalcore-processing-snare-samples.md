@@ -8,20 +8,13 @@ parent: Blog
 
 # Shape your snare multi-samples to sound natural and modern
 
-Drum samples
-{: .label .label-blue }
-
-Live drum tracks
-{: .label .label-blue }
-
-Metalcore
-{: .label .label-blue }
-
-Mixing
-{: .label .label-blue }
-
-Snare drum
-{: .label .label-blue }
+<div class="tags-container">
+  <span class="label label-blue">Drum samples</span>
+  <span class="label label-blue">Live drum tracks</span>
+  <span class="label label-blue">Metalcore</span>
+  <span class="label label-blue">Mixing</span>
+  <span class="label label-blue">Snare drum</span>
+</div>
 
 <div class="video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/hDDBYN8Tq9c?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

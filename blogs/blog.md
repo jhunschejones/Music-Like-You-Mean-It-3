@@ -3,6 +3,7 @@ layout: default
 title: Blog
 nav_order: 2
 permalink: /blogs
+redirect_from: /blog
 has_children: true
 ---
 

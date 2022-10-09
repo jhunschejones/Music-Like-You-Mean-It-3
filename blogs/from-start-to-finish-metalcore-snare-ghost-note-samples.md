@@ -20,8 +20,6 @@ parent: Blog
   <iframe src="https://www.youtube-nocookie.com/embed/-rv1_TFpk0I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What's this all about?
-
 Have you ever worked with a drummer who had a **great snare grove** that just wasn't coming through in the mix, no matter how many **drum gates** you automated? Have you struggled to capture and mix clean, organic sounding snare ghost notes?
 
 In recent years, I feel like there has been a renewed focus on drum dynamics in some corners of the heavy music world. With improvements in recording and mixing technology, it is now more possible than ever to build a **punchy, natural mix** that shows off all the nuances of a great drum arrangement.

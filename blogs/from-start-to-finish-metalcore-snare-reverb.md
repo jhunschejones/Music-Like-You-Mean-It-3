@@ -19,8 +19,6 @@ parent: Blog
   <iframe src="https://www.youtube-nocookie.com/embed/WwyDTmVtAw4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What's this all about?
-
 Have you ever found yourself working in circles trying to **get your snare to hit harder in the mix** with compression, samples, clipping, and saturation? These are all important tools, but it’s likely that you have noticed there’s still _something missing_.
 
 There have been several key moments during my mixing career where I noticed the quality of my mixes had **reached a new level**. One of these was when I discovered how much the space you create for your snare can affect how impactful it feels in the mix.

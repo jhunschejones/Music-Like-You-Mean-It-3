@@ -20,8 +20,6 @@ parent: Blog
   <iframe src="https://www.youtube-nocookie.com/embed/Mkw4bey06_k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What's this all about?
-
 Have you ever worked on a mix with no real snare recordings and found yourself wishing the overall feel of the parts could be just a little **more life-like**?
 
 Crafting good drum tones with samples is a key skill to master in modern heavy music production. In this video, I discuss how I was able to create a **realistic feeling snare** sound in my mix despite the fact that the snare tracks from the original drum tracking session were super messed up!

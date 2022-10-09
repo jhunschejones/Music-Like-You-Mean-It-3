@@ -19,9 +19,9 @@ parent: Blog
   <iframe src="https://www.youtube-nocookie.com/embed/iGKh-Ein9pU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What's this all about?
-
 Welcome! This is the first video in the "From Start To Finish [Metalcore]" series where I am digging into a Metalcore mix I recently completed and explaining some of the lessons I learned and tools I used along the way.
+
+## What's this all about?
 
 Have you ever struggled with getting a live kick-in track to sit in a dense mix? Well, you are in the right place!
 

@@ -8,4 +8,4 @@ has_children: true
 
 # Music Like You Mean It Blog
 
-In 2020 I recorded some deep dives about specific elements of a metalcore mix I refreshed just for you! These videos still stand up even a few years later, so make sure to take a moment to investigate any of these topics that look interesting to you!
+I recently recorded some deep dives where I discuss specific elements of a metalcore mix I refreshed just for you! These videos are a great resource, so be sure to take a moment and investigate any of the topics that look interesting to you.

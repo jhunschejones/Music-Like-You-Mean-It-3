@@ -19,8 +19,6 @@ parent: Blog
   <iframe src="https://www.youtube-nocookie.com/embed/QH8cYJvfEpU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What's this all about?
-
 While kick and snare make up a large part of your overall drum sound, the toms can provide a great opportunity to **distinguish the feel of a song**.
 
 Different mixes present different challenges when it comes to toms. In this video I show how I processed some heavily edited toms to help them sound **more lifelike** and blend better with the **natural drum sound** I was working to achieve.

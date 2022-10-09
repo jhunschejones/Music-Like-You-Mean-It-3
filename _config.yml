@@ -12,3 +12,6 @@ color_scheme: mlymi
 callouts:
   important:
     color: blue
+
+ga_tracking: G-3WVZW84PTJ
+ga_tracking_anonymize_ip: true
